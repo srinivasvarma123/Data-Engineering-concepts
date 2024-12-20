@@ -10,4 +10,4 @@ Joins: Inner, Left, Right, Full, Anti, and Cross Joins, with support for differe
 Aggregations: Grouping by one or more columns with functions like sum, count, and min.
 Data Transformation: Handling hierarchical data, resolving mismatches, and applying conditional logic using expr and withColumn.
 RDD to DataFrame: Converts RDDs to DataFrames and aligns schema for processing.
-Error Handling: Avoids skewness and ambiguous column references.
+
